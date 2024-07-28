@@ -1,0 +1,14 @@
+.big-green-button {
+    background-color: green;
+    color: white;
+    padding: 20px 40px;
+    font-size: 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.big-green-button:hover {
+    background-color: darkgreen;
+}
